@@ -81,7 +81,7 @@ h2 { font-family: var(--font-brand); font-weight: 800; font-size: clamp(28px, 4v
 .contact { background: var(--navy); color: #fff; padding: 84px 0; }
 .contact-in { display: grid; grid-template-columns: 1.1fr 1fr; gap: 48px; align-items: center; }
 .contact .eyebrow { color: var(--lime); }
-.big-num { display: block; font-family: var(--font-brand); font-weight: 900; font-size: clamp(36px, 5.4vw, 64px); text-decoration: none; margin: 6px 0 22px; }
+.big-num { display: block; font-family: var(--font-brand); font-weight: 900; font-size: clamp(26px, 4.2vw, 50px); white-space: nowrap; text-decoration: none; margin: 6px 0 22px; }
 .info { margin: 0; background: #fff; color: var(--ink); border-radius: 14px; padding: 10px 26px; }
 .info div { padding: 14px 0; border-bottom: 1px solid #eee4d6; }
 .info div:last-child { border: 0; }
